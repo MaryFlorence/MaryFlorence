@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MaryFlorence/MaryFlorence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Ex-Microsoft
 
-Here are some ideas to get you started:
+## About Me
+Ex-Microsoft. Data scientist with business experience in the technology industry. My career has been characterized by blending advanced analytical skills with a strategic focus in the business world. I have led data analysis projects with the primary goal of driving business growth and have extensive experience in designing and executing strategies for the development of partnerships and alliances. My passion lies in transforming raw data into valuable information that can serve as the foundation for intelligent business decisions and innovative growth strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- PowerBI
+- Tableau
+- WebScrapping
+- Azure
+- GCP
+
+
+## Contact Me
+- LinkedIn: [Florencia Luppi](https://www.linkedin.com/in/mariaflorencialuppi/)
+
+
+
