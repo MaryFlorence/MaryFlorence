@@ -10,6 +10,7 @@ Ex-Microsoft. Data scientist with business experience in the technology industry
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit learn
 - PowerBI
 - Tableau
 - WebScrapping
